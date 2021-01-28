@@ -8,5 +8,5 @@ this repo contains the following
 
 to do
 - [ ] add nixpkgs config
-- [ ] update the i3/bspwm section and add other things
-- [x] add the bla bla bla nsit
+- [x] update the i3/bspwm section and add other things
+
