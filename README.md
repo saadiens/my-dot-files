@@ -9,4 +9,5 @@ this repo contains the following
 to do
 - [ ] add nixpkgs config
 - [x] update the i3/bspwm section and add other things
+- [ ] creating install script ( *in the making* )
 
